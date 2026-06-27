@@ -1,2 +1,5 @@
 # kabilankumar
-flask application ,workflow automate testing deployment ,push docker images to docker hub ,deploy application to cloud platform 
+to_create flask application;
+"automate"-testing and seployment:
+push-docker "images to docker hub"
+appplication{cloud(heroku)}:
